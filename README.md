@@ -4,7 +4,7 @@ A Telegram bot **[@vip_pro_best_cinema_bot](https://t.me/vip_pro_best_cinema_bot
 
 ## What can it do?
 
-You simply send a movie or TV show title and get its poster, brief overview, release date and links to sites, where you can watch it (or buy it).
+You simply send a movie or TV show title and get its poster, brief overview, release date and links to websites, where you can watch it (or buy it).
 The bot supports 6 languages:
 - Russian, English (fully supported)
 - French, German, Spanish, Chinese (only queries and responses)
