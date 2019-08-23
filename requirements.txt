@@ -1,5 +1,8 @@
 beautifulsoup4==4.6.3
+
 aiogram==2.0
+
 aiohttp==3.4.4
+
 tmdbsimple==2.2.0
 emoji==0.5.1
